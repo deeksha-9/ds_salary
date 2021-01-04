@@ -63,7 +63,7 @@ Three different models:
 ## Model performance
 
 The Random Forest model far outperformed the other approaches on the test and validation sets.
-** Random Forest : MAE = 15.07
+* Random Forest : MAE = 15.07
 
 
 
